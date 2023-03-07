@@ -1,0 +1,22 @@
+.movies{
+    /* background-color: black; */
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.sindhu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    max-width: 150px;
+    
+}
+img{
+    border-radius: 10px;
+    max-width: 150px;
+}
+h1{
+    padding: 10px;
+    
+}
